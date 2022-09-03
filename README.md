@@ -2,6 +2,11 @@
 
 Some Description!
 
-## Subheader
+**## Subheader
 
-Watch tutorial on YouTube!
+Watch tutorial on YouTube!**
+
+
+##
+
+1. Open index.html in your browser.

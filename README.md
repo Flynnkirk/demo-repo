@@ -9,4 +9,4 @@ Watch tutorial on YouTube!**
 
 ##
 
-1. Hi
+1. Hello
